@@ -1,2 +1,2 @@
-# projectone-
+# projectone
 This is the project that build your mind...
